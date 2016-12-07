@@ -70,7 +70,7 @@ contrib: CF wrote the software. GD designed the functions for transforming the d
   
 bibliography: ./brainhack-report
 
-gigascience-ref: REFXXX
+gigascience-ref: \href{http://gigadb.org/dataset/100224}{doi:10.5524/100224}
 ...
 
 #Introduction
